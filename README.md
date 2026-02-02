@@ -11,7 +11,7 @@
 ## 🚀 사용방법
 ### 옵션 1. 직접 작성 (Quick Start)
 - 환경 설정
-```  pip install torch torchvision numpy pandas opencv-python``` 
+```pip install torch torchvision numpy pandas opencv-python``` 
 - 데이터 검수
 ```python src/check_data.py --input_dir ./data/raw``` 
 
