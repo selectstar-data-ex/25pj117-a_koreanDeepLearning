@@ -1,4 +1,4 @@
-# 25pj117-a_koreanDeepLearning
+# 25pj117-a_koreaDeepLearning
 - 25pj117-a_한국딥러닝
 
 ## 👤 작성자
